@@ -1,0 +1,3 @@
+// Intentionally empty. Initial analysis will generate this automatically.
+fn_803AB55C = .text:0x803AB55C; // type:label
+fn_803AB514 = .text:0x803AB514; // type:function size:0x154
